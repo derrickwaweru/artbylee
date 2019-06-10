@@ -193,3 +193,7 @@ img {
 .touch p{
 text-align: center;
 }
+
+body {
+    font-family: 'Autour One';font-size: 14px;
+}
