@@ -192,6 +192,9 @@ img {
 
 .touch p{
 text-align: center;
+background-color: rgba(0, 0, 0, 0.2);
+padding-top:20px;
+padding-bottom:25px;
 }
 
 body {
